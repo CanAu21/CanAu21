@@ -20,6 +20,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=canau21&" alt="canau21" /></p>
 
-<p align="center">
-  <img src="https://github.com/CanAu21/CanAu21/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+
